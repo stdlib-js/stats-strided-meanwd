@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-05)
+## Unreleased (2026-06-03)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
+-   [`d6c72a0`](https://github.com/stdlib-js/stdlib/commit/d6c72a042cca76e97759951cdbf89375b784e16a) - **bench:** refactor to use string interpolation in `stats/strided` [(#11359)](https://github.com/stdlib-js/stdlib/pull/11359) _(by Karan Anand)_
 -   [`e5fc414`](https://github.com/stdlib-js/stdlib/commit/e5fc414b47afe395178b88858a9731651f409b46) - **chore:** fix JSDoc and spacing issues _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +26,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
