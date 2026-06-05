@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-03)
+## Unreleased (2026-06-05)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8e32423`](https://github.com/stdlib-js/stdlib/commit/8e32423156316049de0700cfcb4d3da2b173f008) - **refactor:** align TypeScript declarations across stats packages [(#12512)](https://github.com/stdlib-js/stdlib/pull/12512) _(by Philipp Burckhardt)_
 -   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
 -   [`d6c72a0`](https://github.com/stdlib-js/stdlib/commit/d6c72a042cca76e97759951cdbf89375b784e16a) - **bench:** refactor to use string interpolation in `stats/strided` [(#11359)](https://github.com/stdlib-js/stdlib/pull/11359) _(by Karan Anand)_
 -   [`e5fc414`](https://github.com/stdlib-js/stdlib/commit/e5fc414b47afe395178b88858a9731651f409b46) - **chore:** fix JSDoc and spacing issues _(by Philipp Burckhardt)_
